@@ -3,7 +3,7 @@
 ## Usefull
 
 Use the postman or insomnia to test
->https://www.getpostman.com/
+>https://www.getpostman.com/\
 >https://insomnia.rest/
 
 ## Dependencies
@@ -11,7 +11,7 @@ Use the postman or insomnia to test
 **Database**
 Use the service https://www.mongodb.com/cloud/atlas
 
->```yarn add express nodemoon```
+>```yarn add express nodemoon```\
 >```yarn add express mongoose```
 
 **Saving files using _multer_**
@@ -31,7 +31,8 @@ Use the service https://www.mongodb.com/cloud/atlas
 >```yarn add cors```
 
 **Commands to start in dev and production enviroments**
->```yarn dev```
+
+>```yarn dev```\
 >```yarn start```
  
  
